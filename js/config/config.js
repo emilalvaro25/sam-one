@@ -3,7 +3,7 @@ export const CONFIG = {
     KEY: "AIzaSyAaV0zMGC_BXbDQKcYR7yZFQL92CxEFlos",
     BASE_URL: "wss://generativelanguage.googleapis.com/ws",
     VERSION: "v1alpha",
-    MODEL_NAME: "models/gemini-2.5-flash-exp-native-audio-thinking-dialog",
+    MODEL_NAME: "models/gemini-2.5-flash-live-preview",
   },
   SYSTEM_INSTRUCTION: {
     TEXT: `You are **Rick**, the professional, warm, and reliable customer support agent of **Bots-R-Here** — a company led by Owner Jo Lernout, CEO Frank, and Head Developer Ricky.  
