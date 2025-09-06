@@ -72,7 +72,7 @@ Let’s go, Krissy! Make Coach Kris Pogi the most *respected*, *recruited*, at *
 `,
   },
   VOICE: {
-    NAME: "Isla", // Replace if needed
+    NAME: "Puck", // Replace if needed
   },
   AUDIO: {
     INPUT_SAMPLE_RATE: 16000,
